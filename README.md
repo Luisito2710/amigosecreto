@@ -24,14 +24,14 @@ Previene entradas vacías y nombres duplicados.
 
 🎲 Modos de sorteo
 
-Ganador único: selecciona un nombre al azar de forma justa e impredecible y lo destaca en pantalla. 🚀 Cómo usar
+Ganador único: selecciona un nombre al azar de forma justa e impredecible y lo destaca en pantalla. 
+
+🚀 Cómo usar
 
 Escribe un nombre y presiona Agregar.
 
 Repite hasta completar la lista.
 
 Edita si hace falta (puedes eliminar nombres).
-
-Elige el modo de sorteo:
 
 Ganador único → botón Sortear ganador. 
