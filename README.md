@@ -34,7 +34,11 @@ Ganador único: selecciona un nombre al azar de forma justa e impredecible y lo 
 Escribe un nombre y presiona Agregar.
 
 Repite hasta completar la lista.
+<img width="1862" height="1058" alt="image" src="https://github.com/user-attachments/assets/2f3a17d1-da6c-4244-a52a-8d379e0e52c6" />
+
 
 Edita si hace falta (puedes eliminar nombres).
+<img width="1880" height="1062" alt="image" src="https://github.com/user-attachments/assets/9d92825c-e1c7-48a1-9c7a-68cdcb0e441c" />
 
 Ganador único → botón Sortear ganador. 
+<img width="1904" height="1051" alt="image" src="https://github.com/user-attachments/assets/453da461-2ef5-4d0f-9e38-42cf88fd71bb" />
