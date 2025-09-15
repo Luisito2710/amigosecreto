@@ -12,6 +12,9 @@ Aplicación de una sola página para gestionar participantes, validar entradas y
 
 Agrega nombres mediante un campo de texto y botón Agregar.
 
+<img width="1918" height="1064" alt="image" src="https://github.com/user-attachments/assets/420b2418-d310-4b59-af76-5b8684cf7e6a" />
+
+
 Visualiza una lista dinámica que se actualiza en tiempo real.
 
 Elimina participantes individualmente con un botón dedicado.
